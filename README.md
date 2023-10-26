@@ -9,7 +9,7 @@ API Rest completa utilizando Node.js e Expresss, de um menu digital para um rest
   <a href="#como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#endpoints">Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#foi-utilizado">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/eduardonobrega/food-explorer-frontend">Front-end</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Jefferson Formigoni/food-explorer-frontend">Front-end</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Estrutura do banco de dados:
@@ -155,11 +155,11 @@ para criar um usurário administrador, basta fazer uma requisição em /users/, 
 - `Jest`
 
 ---
-## 🎨 Veja o [Fron-end](https://github.com/eduardonobrega/food-explorer-frontend) 
+## 🎨 Veja o [Fron-end](https://github.com/Jefferson Formigoni/food-explorer-frontend) 
 ---
 
 
 
 ## Autor
 
-[@eduardonobrega](https://www.linkedin.com/in/eduardo-nunes-nobrega/)
+[@Jefferson Formigoni](https://www.linkedin.com/in/Jefferson Formigoni/)
